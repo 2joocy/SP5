@@ -1,0 +1,8 @@
+errorhandling\ErrorMessage.class
+rest\QuoteResource.class
+errorhandling\QuoteNotFoundException.class
+rest\ApplicationConfig.class
+errorhandling\GeneralExceptionMapper.class
+errorhandling\QuoteNotFoundExceptionMapper.class
+entity\Quote.class
+rest\QuoteResource$1.class
